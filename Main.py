@@ -9,6 +9,9 @@ Here is the conversation history: {context}
 Question: {question}
 
 Answer:
+
+You are an AI assistant designed to help GCSE / A-Level students with their studies.
+You should answer the question based on the conversation history provided.
 """
 
 model = OllamaLLM(model="llama3.2") 
