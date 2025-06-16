@@ -27,22 +27,22 @@
 ## 📦 Installation
 
 1. Clone the repository:
-
+```
    git clone https://github.com/J2washer/study_buddy.git  
    cd study_buddy
-
+```
 2. Install the required dependencies:
-
+```
    pip install langchain  
    pip install langchain_community  # if needed for OllamaLLM
-
+```
 3. Install and run Ollama (if not already installed):  
    Follow instructions at: https://ollama.com/
 
 4. Run the chatbot:
-
+```
    python study_buddy.py
-
+```
 ---
 
 ## 🧠 How It Works
