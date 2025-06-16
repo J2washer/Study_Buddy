@@ -1,6 +1,7 @@
 # 📚 Study Buddy - AI Chatbot for Students 
 
 
+
 **Study Buddy** is an AI-powered chatbot designed to help **GCSE** and **A-Level** students with their studies. Built using **LangChain** and **Ollama LLM**, it can hold a context-aware conversation and answer academic questions in a helpful and coherent manner.
 
 ---
